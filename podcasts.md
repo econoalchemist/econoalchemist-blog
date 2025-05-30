@@ -8,6 +8,7 @@ Focused on mining, energy, and proof-of-work - hosted by Rod [@bitkite](https://
 
 ### Find all POD256 episodes at [pod256.org](https://pod256.org)
 
+<br>
 
 # The Hash Cast, a podcast for Bitcoin home miners. [Archives]
 Produced from December 2021 until December 2022.
@@ -18,6 +19,8 @@ This show offered you a chance to catch up on the last ~2 weeks of Bitcoin minin
 During the show's production, it was sponsored by: [Upstream Data](https://blog.upstreamdata.ca/) & [Braiins](https://braiins.com/)
 
 ### Find all The Hash Cast episodes on [BitcoinTV.com](https://bitcointv.com/c/hashcast/videos). 
+
+<br>
 
 # Hell or High Water, a podcast on injustice.
 Although not directly related to Bitcoin, this podcast tells a story relating to the struggle for freedom, the abuses of power from oppressors, and how a family has been shattered by injustice. I hope that this brings awareness not only to my friends' unfortunate situation but also to the harsh realities of the criminal justice system and how it is continuously encroaching on the freedoms so many of us take for granted. 
