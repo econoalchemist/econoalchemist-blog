@@ -7,5 +7,5 @@ tags: [bitcoin, Privacy, self-custody, CoinJoin, Whirlpool]
 author:
   - econoalchemist
 ---
-## Web Guide: [Whirlpool Guide](https://econoalchemist.github.io/Whirlpool/)
+## Web Guide: [Whirlpool Guide](https://whirlpool.econoalchemist.com)
 ### GitHub Repo: [Whirlpool Repo](https://github.com/econoalchemist/Whirlpool)
