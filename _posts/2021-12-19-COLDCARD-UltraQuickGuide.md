@@ -8,6 +8,6 @@ author:
   - econoalchemist
 ---
 
-## Web Guide: [COLDCARD Beginners Guide](https://econoalchemist.github.io/COLDCARD-UltraQuick/)
+## Web Guide: [COLDCARD Beginners Guide](https://coldcard1.econoalchemist.com)
 
 ### GitHub Repo: [COLDCARD Beginners Repo](https://github.com/econoalchemist/COLDCARD-UltraQuick)
