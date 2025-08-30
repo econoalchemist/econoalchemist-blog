@@ -7,5 +7,5 @@ tags: [bitcoin, self-custody, privacy]
 author:
   - econoalchemist
 ---
-## Web Article: [CoinJoin Day Guide](https://econoalchemist.github.io/CoinJoin-Day/)
+## Web Article: [CoinJoin Day Guide](https://6102.econoalchemist.com)
 ### GitHub Repo: [CoinJoin Day Repo](https://github.com/econoalchemist/CoinJoin-Day)
