@@ -7,5 +7,5 @@ tags: [bitcoin, self-custody, steel backups]
 author:
   - econoalchemist
 ---
-## Web Article: [Hodlr Disk Guide](https://hodlr1.econoalchemist.com)
+## Web Article: [Hodlr Disk Guide](https://hodlrdisk.econoalchemist.com)
 ### GitHub Repo: [Hodlr Disk Repo](https://github.com/econoalchemist/Hodlr-Disks)
