@@ -8,5 +8,5 @@ author:
   - econoalchemist
 ---
 
-## Web Guide: [Upstream Data Home Miner VPN Guide](https://miningvpn2.econoalchemist.com)
+## Web Guide: [Upstream Data Home Miner VPN Guide](https://miningvpn.econoalchemist.com)
 ### GitHub Repo: [Upstream Data Home Miner VPN Repo](https://github.com/econoalchemist/UpstreamData-VPN)
