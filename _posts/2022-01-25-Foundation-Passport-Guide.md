@@ -7,5 +7,5 @@ tags: [bitcoin, self custody]
 author:
   - econoalchemist
 ---
-## Web Guide: [Foundation Passport Guide](https://econoalchemist.github.io/Foundation-Passport/)
+## Web Guide: [Foundation Passport Guide](https://passport1.econoalchemist.com)
 ### GitHub Repo: [Foundation Passport Repo](https://github.com/econoalchemist/Foundation-Passport)
