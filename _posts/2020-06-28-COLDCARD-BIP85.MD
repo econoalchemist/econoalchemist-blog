@@ -7,5 +7,5 @@ tags: [bitcoin, self-custody, wallets]
 author:
   - econoalchemist
 ---
-## Web Article: [COLDCARD BIP85 Guide](https://econoalchemist.github.io/COLDCARD-BIP85/)
+## Web Article: [COLDCARD BIP85 Guide](https://bip85.econoalchemist.com)
 ### GitHub Repo: [COLDCARD BIP85 Repo](https://github.com/econoalchemist/COLDCARD-BIP85)
