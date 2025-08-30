@@ -7,5 +7,5 @@ tags: [bitcoin, home mining]
 author:
   - econoalchemist
 ---
-## Web Article: [Home Mining Guide](https://econoalchemist.github.io/Home-Mining/)
+## Web Article: [Home Mining Guide](https://homemining.econoalchemist.com)
 ### GitHub Repo: [Home Mining Repo](https://github.com/econoalchemist/Home-Mining)
