@@ -7,5 +7,5 @@ tags: [bitcoin, home mining, DIY, BlackBox]
 author:
   - econoalchemist
 ---
-## Web Guide: [DIY BlackBox Guide](https://econoalchemist.github.io/UpstreamData-DIY-BlackBox/)
+## Web Guide: [DIY BlackBox Guide](https://diyblackbox.econoalchemist.com)
 ### GitHub Repo: [DIY BlackBox Repo](https://github.com/econoalchemist/UpstreamData-DIY-BlackBox)
