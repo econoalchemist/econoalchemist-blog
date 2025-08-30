@@ -7,5 +7,5 @@ tags: [bitcoin, nodes, Self Custody, be your own bank]
 author:
   - econoalchemist
 ---
-## Web Guide: [RoninDojo Tanto Setup Guide](https://econoalchemist.github.io/RoninDojo-Tanto/)
+## Web Guide: [RoninDojo Tanto Setup Guide](https://tanto.econoalchemist.com)
 ### GitHub Repo: [RoninDojo Tanto Setup Repo](https://github.com/econoalchemist/RoninDojo-Tanto)
